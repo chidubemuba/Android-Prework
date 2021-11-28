@@ -5,7 +5,7 @@ AndroidPrework
 This is an app that allows the user to change the color of the image and text displayed on the app using the "change background color" and "change text color" button.
 
 ### App Walk-though
-<img src="https://imgur.com/a/lHTKolK" width=200><br>
+<img src="https://imgur.com/Q2vyARb" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
